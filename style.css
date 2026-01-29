@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+
+
+h1 {
+    /* text-align: center; */
+    color: rgb(215, 88, 88);
+}
+
+input {
+    border-radius: 5px;
+    border: 1px solid rgb(202, 87, 87);
+    padding: 5px;
+}
+
+ul {
+    text-align: center;
+
+}
+button {
+    border-radius: 5px;
+    border: 1px solid rgb(204, 88, 88);
+    padding: 5px;
+}
